@@ -1,0 +1,17 @@
+{
+    "name": "sedalit/little-mvc-framework",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Sedalit\\LittleMvcFramework\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Vladislav Agarkov",
+            "email": "hello.agarkov@gmail.com"
+        }
+    ],
+    "require": {}
+}
