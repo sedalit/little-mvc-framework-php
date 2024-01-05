@@ -1,0 +1,18 @@
+{
+    "name": "sedalit/little-mvc-framework",
+    "type": "library",
+    "license": "MIT",
+    "description": "Simple MVC framework for PHP",
+    "autoload": {
+        "psr-4": {
+            "Sedalit\\LittleMvcFramework\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Vladislav Agarkov",
+            "email": "hello.agarkov@gmail.com"
+        }
+    ],
+    "require": {}
+}
